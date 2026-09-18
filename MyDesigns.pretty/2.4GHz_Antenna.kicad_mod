@@ -1,0 +1,231 @@
+(footprint "2.4GHz_Antenna"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(property "Reference" "A"
+		(at 0 -2.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "b9cd9956-7530-450e-80f4-a7955abbe5ac")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "2.4GHz_Antenna"
+		(at 0 -1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "5f15dca4-953b-491e-9c32-087bfbd1cee0")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "7452b837-f0cd-495e-ba1e-4e57e980a142")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Inverted F antenna"
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "b324f3b0-240c-4b0d-a934-491c36a7722b")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(net_tie_pad_groups "1,2")
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_rect
+		(start -5.5 1.5)
+		(end -1.1 2.4)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "3e8b8147-052d-4852-80bb-8c4b7a691494")
+	)
+	(fp_rect
+		(start -5.5 3.8)
+		(end -0.852518 4.3)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "af166cfd-e7bd-4ec8-a6fa-ca19284a50de")
+	)
+	(fp_rect
+		(start -5.04 15.4)
+		(end -1.1 15.9)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "693a36f6-993d-4636-9a82-162bc5b3119f")
+	)
+	(fp_rect
+		(start -3.74 6)
+		(end -1.1 6.5)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "4fe8e74f-54ee-415a-bdec-c790c54bbe99")
+	)
+	(fp_rect
+		(start -3.74 6.5)
+		(end -3.24 8.5)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "fe474a3a-b955-4df3-9a13-a1538f303ecb")
+	)
+	(fp_rect
+		(start -3.74 8.5)
+		(end -1.1 9)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "1576c84b-1d85-4afc-946b-5f62b4ca99c4")
+	)
+	(fp_rect
+		(start -3.74 10.7)
+		(end -1.1 11.2)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "c6a9335d-18c0-4ef3-8c56-2d386a9cbec7")
+	)
+	(fp_rect
+		(start -3.74 11.2)
+		(end -3.24 13.2)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "c30f3add-889d-4ccb-97d8-174f4f2f6cab")
+	)
+	(fp_rect
+		(start -3.74 13.2)
+		(end -1.1 13.7)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "d7f4f7a6-5e27-4186-aabe-2f8744a6c0f4")
+	)
+	(fp_rect
+		(start -1.1 1.5)
+		(end -0.6 6.5)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "32d20b3d-78df-41f2-a4cd-f02ca8021bf4")
+	)
+	(fp_rect
+		(start -1.1 8.5)
+		(end -0.6 11.2)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "a8676012-62c0-4d02-98cd-86335e3fd1c6")
+	)
+	(fp_rect
+		(start -1.1 13.2)
+		(end -0.6 15.9)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "8e15c609-995e-4c25-aa51-2e4ec053ac7a")
+	)
+	(fp_text user "GND"
+		(at -7 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "bb0f90f6-a352-4d03-98a1-c92402eca421")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(fp_text user "Feed"
+		(at -7 3.5 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "83ce6fd0-6da7-4938-8b8f-ba70e01a180a")
+		(effects
+			(font
+				(size 0.5 0.5)
+				(thickness 0.1)
+				(bold yes)
+			)
+			(justify left bottom)
+		)
+	)
+	(pad "1" smd rect
+		(at -5.75 1.95)
+		(size 0.5 0.9)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "f3216b6c-ca6a-4960-b1ff-389892245fcc")
+	)
+	(pad "2" smd rect
+		(at -5.75 4.05)
+		(size 0.5 0.5)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "6fca448f-c39e-4cdf-9d79-c2207ca2a46b")
+	)
+	(embedded_fonts no)
+)
