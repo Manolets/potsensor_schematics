@@ -10698,7 +10698,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "BLUE"
 			(at 75.8825 53.34 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10708,7 +10708,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 77.47 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -12860,7 +12860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 149.86 154.178 90)
 			(hide yes)
 			(show_name no)
@@ -13367,7 +13367,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_SO:SOIC-8_3.9x4.9mm_P1.27mm"
+		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
 			(at 140.97 171.958 90)
 			(hide yes)
 			(show_name no)
@@ -13676,7 +13676,7 @@
 				)
 			)
 		)
-		(property "Value" "LED"
+		(property "Value" "RED"
 			(at 75.8825 63.5 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13686,7 +13686,7 @@
 				)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_Cree-XHP50_3V_HighDensity"
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
 			(at 77.47 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -14974,7 +14974,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_DFN_QFN:UQFN-16_1.8x2.6mm_P0.4mm"
+		(property "Footprint" "Connector_USB:USB_C_Receptacle_GCT_USB4105-xx-A_16P_TopMnt_Horizontal"
 			(at 35.56 109.22 0)
 			(hide yes)
 			(show_name no)
