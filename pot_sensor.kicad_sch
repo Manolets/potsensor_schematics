@@ -8449,6 +8449,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "KAF21BR71H104KM"
+			(at 260.35 87.63 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c10bb895-83cd-439f-b42f-ff5c88beb300")
 		)
@@ -8651,7 +8662,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_0201_0603Metric"
+		(property "Footprint" "Inductor_SMD:L_01005_0402Metric"
 			(at 222.25 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -8675,6 +8686,17 @@
 		)
 		(property "Description" "Inductor"
 			(at 222.25 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "LQP02HV1N8B02L"
+			(at 222.25 67.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8756,6 +8778,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 52.07 166.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "HDC3020DEFR "
 			(at 52.07 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -8858,6 +8891,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 130.81 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "06031A300FAT2A"
 			(at 130.81 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -9018,6 +9062,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 214.63 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "GRM0335C1H4R9BA1D"
 			(at 214.63 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -9265,6 +9320,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "GCQ0335C1H3R9CB1D"
+			(at 229.87 71.12 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4f15d3c9-8fea-4bfe-8064-6b104e9148bc")
 		)
@@ -9337,6 +9403,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 78.74 148.59 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "SR0805FR-474K7L"
 			(at 78.74 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9506,6 +9583,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "06031A300FAT2A"
+			(at 152.4 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "c34f6c39-81ae-40f1-82ec-f744a9113726")
 		)
@@ -9664,6 +9752,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "RC0603FR-071K78L"
+			(at 35.56 59.69 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e09ab0d7-a319-48d1-ad0d-444071b94aed")
 		)
@@ -9735,6 +9834,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 166.37 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "KAF21BR71H104KM"
 			(at 166.37 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -9825,6 +9935,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "TPS22917DBVR"
+			(at 123.19 86.36 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "4028d796-0a70-482d-8b60-d776e79e8c65")
 		)
@@ -9884,7 +10005,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 85.09 69.088 90)
 			(hide yes)
 			(show_name no)
@@ -9908,6 +10029,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 85.09 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "TNPW12061K00BXEA"
+			(at 85.09 67.31 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9998,6 +10130,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "ZRB15XC80G106ME5D"
+			(at 102.87 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "386cbeab-1781-4884-aa97-046c51f133b6")
 		)
@@ -10070,6 +10213,17 @@
 			)
 		)
 		(property "Description" "Inductor"
+			(at 101.6 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "SRN4018BTA-2R2M"
 			(at 101.6 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10240,6 +10394,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "GXT21BR71A475KE3L"
+			(at 78.74 43.18 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "c7fc8a92-6185-4d00-9eb9-4b1e415cc1ae")
 		)
@@ -10261,7 +10426,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -10311,6 +10476,17 @@
 		)
 		(property "Description" ""
 			(at 215.9 50.8 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" ""
+			(at 215.9 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10527,6 +10703,17 @@
 				(justify bottom)
 			)
 		)
+		(property "PartNumber" "ABM8-40-B2-T"
+			(at 140.97 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "f5b2ea57-574c-4a73-a8cb-5b7ca6f60489")
 		)
@@ -10606,6 +10793,17 @@
 			)
 		)
 		(property "Description" "USB-Friendly Li-Ion Battery Charger and Power-Path Management, VQFN-16"
+			(at 54.61 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "BQ24074RGTR"
 			(at 54.61 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -10742,6 +10940,17 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
+			(at 77.47 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "APT1608VBC/D"
 			(at 77.47 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -10992,6 +11201,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "USBLC6-2P6 "
+			(at 73.66 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "3"
 			(uuid "41f58d1e-def1-4168-b58f-cbc0777610d5")
 		)
@@ -11051,7 +11271,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
+		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
 			(at 137.16 164.1348 0)
 			(hide yes)
 			(show_name no)
@@ -11075,6 +11295,17 @@
 		)
 		(property "Description" "Unpolarized capacitor"
 			(at 133.35 165.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "GXT155C80J105KE1D"
+			(at 133.35 165.1 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11165,6 +11396,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "W25Q32JVSSIMTR "
+			(at 229.87 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "4"
 			(uuid "12e54378-876c-412f-bbf0-93ebac2fee3b")
 		)
@@ -11204,7 +11446,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -11253,6 +11495,17 @@
 			)
 		)
 		(property "Description" ""
+			(at 114.3 160.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" ""
 			(at 114.3 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -11344,6 +11597,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "ZRB15XC80G106ME5D"
+			(at 204.47 64.77 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "cdcea0bb-5930-4c8d-97cd-0e81057695f9")
 		)
@@ -11416,6 +11680,17 @@
 		)
 		(property "Description" "Push button switch, generic, two pins"
 			(at 252.73 88.9 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "PTS810SJK250SMTR"
+			(at 252.73 88.9 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -11662,6 +11937,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "KAF21BR71H104KM"
+			(at 273.05 137.16 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "e7b2cde7-b01b-4dd7-9187-560cd4571622")
 		)
@@ -11822,6 +12108,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "TNPW04025K10BEED"
+			(at 52.07 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "1d935921-0387-43d3-a13b-d2ee99e0a9e3")
 		)
@@ -11970,6 +12267,17 @@
 			)
 		)
 		(property "Description" "Buck-Boost Converter, 1.8-5.5V Input Voltage, 0.4A Switch Current, Adjustable 1.8-5V Output Voltage, WSON-10"
+			(at 115.57 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "TPS63900DSKR"
 			(at 115.57 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -12323,6 +12631,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "ESR01MZPF1002"
+			(at 260.35 78.74 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "238c0004-5f7a-46b1-8dac-b713c5f895ac")
 		)
@@ -12560,6 +12879,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "KAF21BR71H104KM"
+			(at 243.84 125.73 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "40bb7314-4173-45fc-8385-78d0cd8fb713")
 		)
@@ -12633,6 +12963,17 @@
 		)
 		(property "Description" "RF Module, ESP32 SoC, RISC-V, WiFi 802.11b/n/g, Bluetooth LE 5, QFN32"
 			(at 187.198 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "ESP32-C3"
+			(at 186.69 99.06 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -12893,6 +13234,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "ESR01MZPF1002"
+			(at 149.86 152.4 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "34d2a6ca-d07e-4fc0-ae85-028a9f61f2aa")
 		)
@@ -12964,6 +13316,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 40.64 69.85 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "ESR01MZPF1002"
+			(at 40.64 69.85 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13054,6 +13417,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "PTS810SJK250SMTR"
+			(at 265.43 138.43 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "418faa9f-9987-4fb1-9f05-bc0e1bb0fd2a")
 		)
@@ -13126,6 +13500,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 69.85 147.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "SR0805FR-474K7L"
 			(at 69.85 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13240,6 +13625,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "BAT54WS-HE3_A-08"
+			(at 144.78 156.21 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "df2f1a52-4d8e-46b8-b178-99859727a3fa")
 		)
@@ -13311,6 +13707,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 156.21 54.61 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "KAF21BR71H104KM"
 			(at 156.21 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13400,6 +13807,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "ESR01MZPF5103"
+			(at 140.97 170.18 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "6ea5a7ab-5a07-467e-b21f-732f5eca3fda")
 		)
@@ -13471,6 +13889,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 129.54 49.53 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "RC0402FR-0736K5L"
+			(at 129.54 49.53 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13639,6 +14068,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "MAASE32MSB7226MP"
+			(at 127 33.02 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "b1ff040b-2c34-41e2-ba82-8da809607a52")
 		)
@@ -13730,6 +14170,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "APT1608SURCK-AMT"
+			(at 77.47 67.31 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a1216ba4-33e2-4c67-b900-375816866ad4")
 		)
@@ -13801,6 +14252,17 @@
 			)
 		)
 		(property "Description" "Unpolarized capacitor"
+			(at 161.29 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "KAF21BR71H104KM"
 			(at 161.29 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -13883,6 +14345,17 @@
 			)
 		)
 		(property "Description" "Resistor"
+			(at 55.88 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "TNPW04025K10BEED"
 			(at 55.88 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -14097,7 +14570,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 85.09 58.928 90)
 			(hide yes)
 			(show_name no)
@@ -14121,6 +14594,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 85.09 57.15 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "TNPW12061K00BXEA"
+			(at 85.09 57.15 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14290,6 +14774,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "ESR01MZPF1002"
+			(at 273.05 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "925c5f58-bdbb-46bb-856b-26c045445225")
 		)
@@ -14448,6 +14943,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "ZRB15XC80G106ME5D"
+			(at 151.13 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "1"
 			(uuid "5748a7b4-69e4-4e7a-bc66-b6fa6a0a7edc")
 		)
@@ -14469,7 +14975,7 @@
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
-		(in_bom yes)
+		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
@@ -14522,6 +15028,17 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 30.48 15.24 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" ""
+			(at 30.48 15.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14680,6 +15197,17 @@
 		)
 		(property "Description" "Resistor"
 			(at 160.02 118.11 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "SR1206FR-7W22RL"
+			(at 160.02 118.11 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -14849,6 +15377,17 @@
 				)
 			)
 		)
+		(property "PartNumber" "KGM03BR50J105MH"
+			(at 31.75 38.1 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "a14045e4-8377-4005-84d4-06bcd0ae5cc1")
 		)
@@ -14997,6 +15536,17 @@
 			)
 		)
 		(property "Description" "USB 2.0-only 14P Type-C Receptacle connector"
+			(at 31.75 109.22 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" " 640-USB4930-00-A "
 			(at 31.75 109.22 0)
 			(hide yes)
 			(show_name no)

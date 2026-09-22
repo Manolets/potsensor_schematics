@@ -664,6 +664,12 @@
         },
         {
           "group_by": false,
+          "label": "PartNumber",
+          "name": "PartNumber",
+          "show": true
+        },
+        {
+          "group_by": false,
           "label": "#",
           "name": "${ITEM_NUMBER}",
           "show": false
@@ -672,6 +678,12 @@
           "group_by": false,
           "label": "MANUFACTURER",
           "name": "MANUFACTURER",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Sim.Device",
+          "name": "Sim.Device",
           "show": false
         }
       ],

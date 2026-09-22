@@ -96,6 +96,7 @@
 		(property "Reference" "R5"
 			(at -0.01 0.9125 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "796b23c5-5108-48c0-8414-d415f5e44e4b")
 			(effects
 				(font
@@ -153,12 +154,6 @@
 		(path "/b5003e9f-14b9-46db-93a2-78f453a8d0da")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -255,6 +250,7 @@
 			(at -6.365 -0.14 0)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "31f6eb7b-5d58-421e-a36b-d4e1f6517c0c")
 			(effects
 				(font
@@ -305,14 +301,6 @@
 		(path "/efbb75f8-8eee-457d-8498-5bdf3d48626b")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "SH" "A1" "A12" "B1" "B12" "A4" "A9" "B4" "B9" "A5" "B5" "A7" "B7"
-					"A6" "B6"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -629,6 +617,7 @@
 		(property "Reference" "C3"
 			(at 0 2.5 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9c9f94a9-bae9-4a5c-ba60-3bf51e4be05e")
 			(effects
 				(font
@@ -686,12 +675,6 @@
 		(path "/bb8eb57d-e914-4c60-a92b-99076eba2018")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -787,6 +770,7 @@
 		(property "Reference" "R12"
 			(at 0 -1.65 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "dc806b48-baa7-47f0-b5a1-3457913aec14")
 			(effects
 				(font
@@ -844,12 +828,6 @@
 		(path "/1fae4864-526e-4566-812b-e8ca6f895865")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -945,6 +923,7 @@
 		(property "Reference" "D3"
 			(at 2.5 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "1da0f154-b18b-4f7e-ad07-abb7ad664f85")
 			(effects
 				(font
@@ -1020,12 +999,6 @@
 		(path "/af38a03d-5470-4f39-8a29-cddae92334e5")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1248,8 +1221,8 @@
 		(at 100.2875 72.5)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
-		(property "Reference" "D2"
-			(at 0.7125 1.310727 0)
+		(property "Reference" "PGOOD"
+			(at 1.2125 1.5 0)
 			(layer "F.SilkS")
 			(uuid "6413708b-0593-48ca-8d3c-fdf54b97831e")
 			(effects
@@ -1321,12 +1294,6 @@
 		(path "/4d8f7103-2628-4965-900d-3396d0718023")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1824,6 +1791,7 @@
 		(property "Reference" "U2"
 			(at -2.9 1.1 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d8ed55f0-dddf-43ca-93f1-50a1c3850f5d")
 			(effects
 				(font
@@ -1881,14 +1849,6 @@
 		(path "/4cbf5e3e-e531-426c-843e-8b38f153b59f")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "15" "4" "14" "6" "5" "12" "16" "13" "17" "8" "10" "11" "2" "3"
-					"1" "7" "9"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2427,6 +2387,7 @@
 		(property "Reference" "R2"
 			(at 0 -1.43 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "111095fb-29cd-4a2a-86f5-2fd4e899d523")
 			(effects
 				(font
@@ -2484,12 +2445,6 @@
 		(path "/2c3a6cd3-8b15-423a-917e-4e332ebd1774")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2585,6 +2540,7 @@
 		(property "Reference" "C8"
 			(at 0 -1.68 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "8fb362c2-3037-4e32-a7cd-29b6d7927178")
 			(effects
 				(font
@@ -2642,12 +2598,6 @@
 		(path "/9d49e610-9da0-4855-8de7-9115c019f179")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2791,12 +2741,6 @@
 		(path "/ab314600-1e79-4503-8266-790619bef5a5")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3070,6 +3014,7 @@
 		(property "Reference" "R4"
 			(at -0.5 1 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3692b685-55c1-4ea4-8103-50451fbfbf7c")
 			(effects
 				(font
@@ -3127,12 +3072,6 @@
 		(path "/a9429008-7d4d-4387-b805-a64bf1ba94f6")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3228,6 +3167,7 @@
 		(property "Reference" "U8"
 			(at 0 -2.4 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "acd9241b-76a4-4fd3-bef4-1ad7cb67f400")
 			(effects
 				(font
@@ -3285,12 +3225,6 @@
 		(path "/320c97da-23b0-4115-8ee4-37e5f388bde8")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "4" "3" "2" "6" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3590,6 +3524,7 @@
 		(property "Reference" "U3"
 			(at 0 2 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "617e1eb4-d2c0-4622-af8e-f48a52c54d33")
 			(effects
 				(font
@@ -3647,12 +3582,6 @@
 		(path "/77e7909d-e8b9-436b-8602-8f376d263a4f")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "10" "1" "2" "9" "7" "8" "11" "6" "3" "4" "5")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4074,6 +4003,7 @@
 		(property "Reference" "C6"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "47403fcb-47b3-42c1-be06-72609df6832e")
 			(effects
 				(font
@@ -4131,12 +4061,6 @@
 		(path "/25d481f7-eea8-4294-b8ba-8a226e7ff4df")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4232,6 +4156,7 @@
 		(property "Reference" "L2"
 			(at -0.18 1.115317 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "eefed1ee-16f6-4835-986c-63c6914cd072")
 			(effects
 				(font
@@ -4289,12 +4214,6 @@
 		(path "/052f0d31-2315-45d1-8a31-602ffd3f22de")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -4386,6 +4305,7 @@
 		(property "Reference" "R1"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "c63a2a46-c173-4a61-955d-382f42f983c7")
 			(effects
 				(font
@@ -4443,12 +4363,6 @@
 		(path "/33485d79-81a0-45ec-a397-d1f748354df8")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4544,6 +4458,7 @@
 		(property "Reference" "R8"
 			(at 0 -1.17 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "77f12ac0-9f6b-40b4-b9b6-07c4e126626d")
 			(effects
 				(font
@@ -4601,12 +4516,6 @@
 		(path "/73414026-c07f-4253-9124-3bc6aec6649c")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4702,6 +4611,7 @@
 		(property "Reference" "R9"
 			(at -0.132544 -1.442012 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "9fd22007-e851-4a8d-9ef3-b3f115766605")
 			(effects
 				(font
@@ -4759,12 +4669,6 @@
 		(path "/cc594349-3044-4f23-ba5b-3881da53f20b")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4860,6 +4764,7 @@
 		(property "Reference" "C4"
 			(at 0 -1.16 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "25784d52-0dcf-4c99-b686-5e4d077bc138")
 			(effects
 				(font
@@ -4917,12 +4822,6 @@
 		(path "/34480e78-6327-449b-86e7-cc1c828348c3")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5015,7 +4914,7 @@
 		(at 100.2875 70.5)
 		(descr "LED SMD 0603 (1608 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: http://www.tortai-tech.com/upload/download/2011102023233369053.pdf)")
 		(tags "LED")
-		(property "Reference" "D1"
+		(property "Reference" "CHG"
 			(at 0.7125 -1.43 0)
 			(layer "F.SilkS")
 			(uuid "d8ae1b34-091d-4b91-82f7-9e6f66d281af")
@@ -5088,12 +4987,6 @@
 		(path "/c93d1b1b-b7b9-45f0-8021-407b8fcdc358")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5240,6 +5133,7 @@
 		(property "Reference" "C11"
 			(at 1.534683 1 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "afee1706-d8ae-4f0e-8ff0-7e3307d2ae42")
 			(effects
 				(font
@@ -5297,12 +5191,6 @@
 		(path "/14f430e0-8c25-428f-8de4-203da92b739e")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -5392,6 +5280,7 @@
 		(property "Reference" "C18"
 			(at 3 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "cf87486b-47fa-4ef5-a099-8471130e260a")
 			(effects
 				(font
@@ -5449,12 +5338,6 @@
 		(path "/30eb6b86-3163-494c-8907-af2a0fe411a1")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5550,6 +5433,7 @@
 		(property "Reference" "C14"
 			(at 2.47 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "48f4d225-de57-4f82-b61d-6968819cdfc7")
 			(effects
 				(font
@@ -5607,12 +5491,6 @@
 		(path "/de797b2a-ec58-400c-b296-fac0edd0cd41")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5815,6 +5693,7 @@
 		(property "Reference" "C2"
 			(at 0.18 1.5 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "f601bdb3-262e-422c-ba6f-1f0cd9e4218c")
 			(effects
 				(font
@@ -5872,12 +5751,6 @@
 		(path "/e444447d-5425-415f-bc2d-ec2dc37eb0b6")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -5967,6 +5840,7 @@
 		(property "Reference" "L1"
 			(at 0 3.1 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "fb32dd5f-531a-4b36-82b4-67d3efcf7081")
 			(effects
 				(font
@@ -6016,12 +5890,6 @@
 		(path "/34d00ad2-78ed-4006-88bd-5ae6f87b5e86")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6235,6 +6103,7 @@
 		(property "Reference" "U1"
 			(at 0 -3.8 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "20c03eda-6058-4877-ab47-80fee99cfba1")
 			(effects
 				(font
@@ -6292,15 +6161,6 @@
 		(path "/9e3169bd-45d9-4075-83a0-ab40081201ff")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "6" "8" "14" "15" "16" "25" "26" "28" "27" "4" "5" "29" "30" "3"
-					"2" "11" "17" "33" "18" "31" "32" "1" "7" "9" "10" "12" "13" "19" "20"
-					"21" "22" "23" "24"
-				)
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6999,6 +6859,7 @@
 		(property "Reference" "C16"
 			(at 3 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "07581b66-24fd-4d2a-80fa-d3577f423859")
 			(effects
 				(font
@@ -7056,12 +6917,6 @@
 		(path "/b09db752-1bbd-4784-a568-23b122e08574")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7157,6 +7012,7 @@
 		(property "Reference" "C7"
 			(at -0.05 2 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "d9b18a3a-1b95-47e7-a1b6-c5328b426446")
 			(effects
 				(font
@@ -7214,12 +7070,6 @@
 		(path "/025cc192-e465-41d3-bb10-1b77ef791102")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7315,6 +7165,7 @@
 		(property "Reference" "C5"
 			(at 0 -1.43 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "b91d9d45-7cdf-4d9d-842b-5edd36c6542d")
 			(effects
 				(font
@@ -7372,12 +7223,6 @@
 		(path "/0e59c292-5443-4f5f-bde5-fb2b48859290")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7675,6 +7520,7 @@
 		(property "Reference" "R7"
 			(at 0 1.5 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "3d051df3-6737-475b-afa0-bb856e887dae")
 			(effects
 				(font
@@ -7732,12 +7578,6 @@
 		(path "/8bad8c82-ed7e-42b9-95f3-8c1ec4581eef")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7833,6 +7673,7 @@
 		(property "Reference" "U4"
 			(at 0 -3.6 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "23765200-b9d8-4db7-a257-6a6f9494ec1d")
 			(effects
 				(font
@@ -7890,12 +7731,6 @@
 		(path "/5d13787c-2eb0-430c-a792-35cef72fb196")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "6" "5" "2" "3" "7" "8" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8263,12 +8098,6 @@
 		(path "/684f30aa-7d3d-4bad-923b-257086854c99")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8600,12 +8429,6 @@
 		(path "/d6d3fdaf-4f03-4d8b-8150-88b8cb2d6a37")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8701,6 +8524,7 @@
 			(at -0.5 2 90)
 			(unlocked yes)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "039794b1-08e8-4710-ba89-cb0c5ddf8c73")
 			(effects
 				(font
@@ -8747,12 +8571,6 @@
 		(path "/072a7e5e-3be9-47ad-89a1-09c0755c3698")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "5" "4" "1" "2" "7" "6" "3" "9" "8")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9002,6 +8820,7 @@
 		(property "Reference" "C1"
 			(at 0.45 1.5 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "6182bce8-69e3-4cc0-8405-64ed38b625ee")
 			(effects
 				(font
@@ -9059,12 +8878,6 @@
 		(path "/361cdf13-3fc1-4263-a3ae-3e81deddbd5b")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9267,6 +9080,7 @@
 		(property "Reference" "R14"
 			(at 0 1 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ae4eafca-e24e-4863-bb25-38daea1ced71")
 			(effects
 				(font
@@ -9324,12 +9138,6 @@
 		(path "/b2837f53-730d-4de1-852b-ef87f9849a56")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9423,6 +9231,7 @@
 		(property "Reference" "Y1"
 			(at -2.625 0.15 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "59b62a06-d757-4054-9383-e2ba2c1d14fe")
 			(effects
 				(font
@@ -9519,12 +9328,6 @@
 		(path "/4500bdca-3a40-4e07-b876-94056dc94241")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "2" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9698,6 +9501,7 @@
 		(property "Reference" "R6"
 			(at 0 -1.83 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "eda15656-57cc-47eb-aa13-fbde2a107bc4")
 			(effects
 				(font
@@ -9755,12 +9559,6 @@
 		(path "/e1398cfb-ea62-418a-acf0-d3ab988833b5")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9856,6 +9654,7 @@
 		(property "Reference" "R11"
 			(at -3 -0.5 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "7e9d0ebe-a0b0-4097-b6ad-1188dacfe5e5")
 			(effects
 				(font
@@ -9913,12 +9712,6 @@
 		(path "/ab4d9581-a500-49ad-955f-77b2f9942404")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10012,9 +9805,10 @@
 		(descr "Resistor SMD 0402 (1005 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 72, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf)")
 		(tags "resistor")
 		(property "Reference" "R3"
-			(at 0.019631 1.197763 0)
+			(at 1.2125 1.5 0)
 			(layer "F.SilkS")
-			(uuid "ec762c67-349d-4194-b38c-749994321617")
+			(hide yes)
+			(uuid "31caa0b4-265c-4d24-944e-7370df8d237f")
 			(effects
 				(font
 					(size 1 1)
@@ -10025,7 +9819,7 @@
 		(property "Value" "1K"
 			(at 0 1.17 0)
 			(layer "F.Fab")
-			(uuid "8de5c7be-087d-4934-9b49-9ebc6378cb29")
+			(uuid "d21ff606-159b-4799-b221-50c574240665")
 			(effects
 				(font
 					(size 1 1)
@@ -10037,7 +9831,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "89254c2f-58c7-4767-a174-c0d95161b254")
+			(uuid "55d27341-f415-41bb-8ea3-4f30435066bf")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10048,7 +9842,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83451845-830a-405b-8b61-2db7a5fe1924")
+			(uuid "97034402-5a09-4919-9226-c2a2bf6d5a82")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10071,12 +9865,6 @@
 		(path "/cfc653c1-63dd-434d-94fd-0de959e5ad4f")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10172,6 +9960,7 @@
 		(property "Reference" "C10"
 			(at 0 1.225 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "ef40946d-e025-4f7e-8922-b28d220d57ee")
 			(effects
 				(font
@@ -10229,12 +10018,6 @@
 		(path "/1ac4392b-7b2b-410c-b0e4-4137834e08c4")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -10324,6 +10107,7 @@
 		(property "Reference" "C17"
 			(at 3 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "910e3b1c-585b-4642-b09a-dcb829f1f38a")
 			(effects
 				(font
@@ -10381,12 +10165,6 @@
 		(path "/cc1d3c38-bf83-4ebb-b581-f15f72c6bbf7")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10482,6 +10260,7 @@
 		(property "Reference" "R13"
 			(at -2.5 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "55027ba7-d028-4cd0-8ecf-7ae8c6540d53")
 			(effects
 				(font
@@ -10539,12 +10318,6 @@
 		(path "/a934e58d-e1d0-4f87-bd50-2598ac221cb1")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10640,6 +10413,7 @@
 		(property "Reference" "C13"
 			(at 0 -1.16 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "04c1a0a3-a37c-4a9b-9efc-e8a94ebd8e53")
 			(effects
 				(font
@@ -10697,12 +10471,6 @@
 		(path "/63b7f053-9717-4a27-bf19-0c5290568c64")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10798,6 +10566,7 @@
 		(property "Reference" "U5"
 			(at 0.15 -2.115 180)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "5167809e-0702-4ee9-af1e-8eb88f8973ea")
 			(effects
 				(font
@@ -10847,12 +10616,6 @@
 		(path "/58ee8534-d293-4d85-bf63-9db741e9b0b0")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "3" "5" "2" "6" "4")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11080,6 +10843,7 @@
 		(property "Reference" "C15"
 			(at 0.655 -1.05 0)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "4b911344-2f90-4f27-bf54-e94837a4b1e6")
 			(effects
 				(font
@@ -11137,12 +10901,6 @@
 		(path "/5cf9713f-7943-44b3-a393-353e5ff43147")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_rect
@@ -11232,6 +10990,7 @@
 		(property "Reference" "C9"
 			(at -2.45 0 90)
 			(layer "F.SilkS")
+			(hide yes)
 			(uuid "74345f59-f448-4cef-ba56-008880811e0c")
 			(effects
 				(font
@@ -11289,12 +11048,6 @@
 		(path "/714680ab-1575-4f85-a1f3-d90fed4f183f")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "1" "2")
-			)
-		)
 		(attr smd)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11452,12 +11205,6 @@
 		(path "/df606344-2756-47dc-88d9-b6846c2e9211")
 		(sheetname "/")
 		(sheetfile "pot_sensor.kicad_sch")
-		(units
-			(unit
-				(name "A")
-				(pins "+" "-")
-			)
-		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
