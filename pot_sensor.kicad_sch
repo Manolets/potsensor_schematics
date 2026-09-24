@@ -8475,7 +8475,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "KAF21BR71H104KM"
+		(property "LCSC Part #" "C5137467"
 			(at 260.35 87.63 0)
 			(hide yes)
 			(show_name no)
@@ -8721,7 +8721,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "LQP02HV1N8B02L"
+		(property "LCSC Part #" "C1333014"
 			(at 222.25 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -8814,7 +8814,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "HDC3020DEFR "
+		(property "LCSC Part #" "C7472806"
 			(at 52.07 166.37 0)
 			(hide yes)
 			(show_name no)
@@ -8927,7 +8927,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "06031A300FAT2A"
+		(property "LCSC Part #" "C113797"
 			(at 130.81 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -9098,7 +9098,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "GRM0335C1H4R9BA1D"
+		(property "LCSC Part #" "C2180781"
 			(at 214.63 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -9346,7 +9346,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "GCQ0335C1H3R9CB1D"
+		(property "LCSC Part #" "C22374845"
 			(at 229.87 71.12 0)
 			(hide yes)
 			(show_name no)
@@ -9439,7 +9439,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "SR0805FR-474K7L"
+		(property "LCSC Part #" "C2907326"
 			(at 78.74 148.59 0)
 			(hide yes)
 			(show_name no)
@@ -9609,7 +9609,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "06031A300FAT2A"
+		(property "LCSC Part #" "C113797"
 			(at 152.4 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -9856,7 +9856,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "RC0603FR-071K78L"
+		(property "LCSC Part #" "C2974030"
 			(at 35.56 59.69 90)
 			(hide yes)
 			(show_name no)
@@ -9948,7 +9948,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "KAF21BR71H104KM"
+		(property "LCSC Part #" "C5137467"
 			(at 166.37 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10039,7 +10039,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "TPS22917DBVR"
+		(property "LCSC Part #" "C2681320"
 			(at 123.19 86.36 0)
 			(hide yes)
 			(show_name no)
@@ -10141,7 +10141,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "TNPW12061K00BXEA"
+		(property "LCSC Part #" "C2907440"
 			(at 85.09 67.31 90)
 			(hide yes)
 			(show_name no)
@@ -10233,7 +10233,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "ZRB15XC80G106ME5D"
+		(property "LCSC Part #" "C76991"
 			(at 102.87 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -10293,7 +10293,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "Inductor_SMD:L_Bourns-SRN4018"
+		(property "Footprint" "Inductor_SMD:L_1008_2520Metric"
 			(at 101.6 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10326,7 +10326,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "SRN4018BTA-2R2M"
+		(property "LCSC Part #" "C42455362"
 			(at 101.6 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -10497,7 +10497,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "GXT21BR71A475KE3L"
+		(property "LCSC Part #" "C2857993"
 			(at 78.74 43.18 0)
 			(hide yes)
 			(show_name no)
@@ -10532,7 +10532,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "3b93c58a-f76c-4ff2-9e2a-61c450afa9e5")
 		(property "Reference" "A1"
@@ -10579,17 +10579,6 @@
 		)
 		(property "Description" ""
 			(at 215.9 50.8 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PartNumber" ""
-			(at 215.9 50.8 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10806,7 +10795,7 @@
 				(justify bottom)
 			)
 		)
-		(property "PartNumber" "ABM8-40-B2-T"
+		(property "LCSC Part #" "C1985459"
 			(at 140.97 118.11 0)
 			(hide yes)
 			(show_name no)
@@ -10906,7 +10895,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "BQ24074RGTR"
+		(property "LCSC Part #" "C2861252"
 			(at 54.61 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -11053,7 +11042,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "APT1608VBC/D"
+		(property "LCSC Part #" "C965807"
 			(at 77.47 57.15 0)
 			(hide yes)
 			(show_name no)
@@ -11304,7 +11293,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "USBLC6-2P6 "
+		(property "LCSC Part #" "C2827693"
 			(at 73.66 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -11374,7 +11363,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0402_1005Metric"
+		(property "Footprint" "Capacitor_SMD:C_0201_0603Metric"
 			(at 137.16 164.1348 0)
 			(hide yes)
 			(show_name no)
@@ -11407,7 +11396,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "GXT155C80J105KE1D"
+		(property "LCSC Part #" "C76930"
 			(at 133.35 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -11499,7 +11488,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "W25Q32JVSSIMTR "
+		(property "LCSC Part #" "C179173"
 			(at 229.87 127 0)
 			(hide yes)
 			(show_name no)
@@ -11552,7 +11541,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(uuid "634d8b61-8bc6-4f32-b065-c9f8a52d07ea")
 		(property "Reference" "C12"
 			(at 102.87 154.3051 0)
@@ -11598,17 +11587,6 @@
 			)
 		)
 		(property "Description" ""
-			(at 114.3 160.02 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PartNumber" ""
 			(at 114.3 160.02 0)
 			(hide yes)
 			(show_name no)
@@ -11700,7 +11678,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "ZRB15XC80G106ME5D"
+		(property "LCSC Part #" "C76991"
 			(at 204.47 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -11792,7 +11770,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "PTS810SJK250SMTR"
+		(property "LCSC Part #" "C221895"
 			(at 252.73 88.9 90)
 			(hide yes)
 			(show_name no)
@@ -12040,7 +12018,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "KAF21BR71H104KM"
+		(property "LCSC Part #" "C5137467"
 			(at 273.05 137.16 0)
 			(hide yes)
 			(show_name no)
@@ -12211,7 +12189,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "TNPW04025K10BEED"
+		(property "LCSC Part #" "C2906948"
 			(at 52.07 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -12380,7 +12358,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "TPS63900DSKR"
+		(property "LCSC Part #" "C1518762"
 			(at 115.57 49.53 0)
 			(hide yes)
 			(show_name no)
@@ -12734,7 +12712,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "ESR01MZPF1002"
+		(property "LCSC Part #" "C2906861"
 			(at 260.35 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -12982,7 +12960,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "KAF21BR71H104KM"
+		(property "LCSC Part #" "C5137467"
 			(at 243.84 125.73 90)
 			(hide yes)
 			(show_name no)
@@ -13075,7 +13053,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "ESP32-C3"
+		(property "LCSC Part #" "C2838500"
 			(at 186.69 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -13337,7 +13315,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "ESR01MZPF1002"
+		(property "LCSC Part #" "C2906861"
 			(at 149.86 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -13428,7 +13406,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "ESR01MZPF1002"
+		(property "LCSC Part #" "C2906861"
 			(at 40.64 69.85 90)
 			(hide yes)
 			(show_name no)
@@ -13520,7 +13498,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "PTS810SJK250SMTR"
+		(property "LCSC Part #" "C221895"
 			(at 265.43 138.43 90)
 			(hide yes)
 			(show_name no)
@@ -13613,7 +13591,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "SR0805FR-474K7L"
+		(property "LCSC Part #" "C2907326"
 			(at 69.85 147.32 0)
 			(hide yes)
 			(show_name no)
@@ -13728,7 +13706,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "BAT54WS-HE3_A-08"
+		(property "LCSC Part #" "C5381403"
 			(at 144.78 156.21 90)
 			(hide yes)
 			(show_name no)
@@ -13820,7 +13798,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "KAF21BR71H104KM"
+		(property "LCSC Part #" "C5137467"
 			(at 156.21 54.61 0)
 			(hide yes)
 			(show_name no)
@@ -13910,7 +13888,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "ESR01MZPF5103"
+		(property "LCSC Part #" "C2909365"
 			(at 140.97 170.18 90)
 			(hide yes)
 			(show_name no)
@@ -14001,7 +13979,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "RC0402FR-0736K5L"
+		(property "LCSC Part #" "C42396638"
 			(at 129.54 49.53 90)
 			(hide yes)
 			(show_name no)
@@ -14171,7 +14149,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "MAASE32MSB7226MP"
+		(property "LCSC Part #" "C2918511"
 			(at 127 33.02 0)
 			(hide yes)
 			(show_name no)
@@ -14273,7 +14251,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "APT1608SURCK-AMT"
+		(property "LCSC Part #" "C965799"
 			(at 77.47 67.31 0)
 			(hide yes)
 			(show_name no)
@@ -14365,7 +14343,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "KAF21BR71H104KM"
+		(property "LCSC Part #" "C5137467"
 			(at 161.29 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -14458,7 +14436,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "TNPW04025K10BEED"
+		(property "LCSC Part #" "C2906948"
 			(at 55.88 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -14706,7 +14684,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "TNPW12061K00BXEA"
+		(property "LCSC Part #" "C2907440"
 			(at 85.09 57.15 90)
 			(hide yes)
 			(show_name no)
@@ -14877,7 +14855,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "ESR01MZPF1002"
+		(property "LCSC Part #" "C2906861"
 			(at 273.05 128.27 0)
 			(hide yes)
 			(show_name no)
@@ -15046,7 +15024,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "ZRB15XC80G106ME5D"
+		(property "LCSC Part #" "C76991"
 			(at 151.13 63.5 0)
 			(hide yes)
 			(show_name no)
@@ -15081,7 +15059,7 @@
 		(in_bom no)
 		(on_board yes)
 		(in_pos_files yes)
-		(dnp no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "df606344-2756-47dc-88d9-b6846c2e9211")
 		(property "Reference" "JSTconnector1"
@@ -15131,17 +15109,6 @@
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
 			(at 30.48 15.24 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "PartNumber" ""
-			(at 30.48 15.24 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15309,7 +15276,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "SR1206FR-7W22RL"
+		(property "LCSC Part #" "C25364"
 			(at 160.02 118.11 90)
 			(hide yes)
 			(show_name no)
@@ -15436,7 +15403,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "1µ"
+		(property "Value" "1u"
 			(at 35.56 39.3699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15480,7 +15447,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "KGM03BR50J105MH"
+		(property "LCSC Part #" "C76930"
 			(at 31.75 38.1 0)
 			(hide yes)
 			(show_name no)
@@ -15660,7 +15627,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "APT1608CGCK"
+		(property "LCSC Part #" "C510026"
 			(at 143.51 99.06 0)
 			(hide yes)
 			(show_name no)
@@ -15751,7 +15718,7 @@
 				)
 			)
 		)
-		(property "PartNumber" " 640-USB4930-00-A "
+		(property "LCSC Part #" "C2765186"
 			(at 31.75 109.22 0)
 			(hide yes)
 			(show_name no)
@@ -15916,7 +15883,7 @@
 				)
 			)
 		)
-		(property "Value" "60"
+		(property "Value" "60R"
 			(at 151.13 95.25 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -15959,7 +15926,7 @@
 				)
 			)
 		)
-		(property "PartNumber" "RK73H1HRTTCM60R4"
+		(property "LCSC Part #" "C320980"
 			(at 151.13 99.06 90)
 			(hide yes)
 			(show_name no)
