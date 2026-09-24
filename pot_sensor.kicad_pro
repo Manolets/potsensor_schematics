@@ -52,18 +52,18 @@
         "zones": {
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 0.0,
-          "corner_smoothing": 0,
+          "corner_radius": 1.0,
+          "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
           "hatch_orientation": 0.0,
           "hatch_smoothing_level": 0,
           "hatch_smoothing_value": 0.1,
           "hatch_thickness": 1.0,
-          "min_clearance": 0.5,
+          "min_clearance": 0.2,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
-          "pad_connection": 1,
+          "min_thickness": 0.025,
+          "pad_connection": 2,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
           "thermal_relief_spoke_width": 0.5
@@ -246,7 +246,7 @@
           "drill": 0.0
         }
       ],
-      "zones_allow_external_fillets": false
+      "zones_allow_external_fillets": true
     },
     "ipc2581": {
       "bom_rev": "",
@@ -528,7 +528,7 @@
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.2,
         "tuning_profile": "",
-        "via_diameter": 0.6,
+        "via_diameter": 0.8,
         "via_drill": 0.3,
         "wire_width": 6
       }
@@ -743,7 +743,7 @@
         "uuid": "24b866a0-7d45-4845-8b45-7879163e684a"
       }
     ],
-    "used_designators": "#FLG1-2,R1-10,R13-15,J1-2,L1-2,A1,D1-3,C1-19,#PWR1-28,Y1,JSTconnector1,U1-8,SW1-2",
+    "used_designators": "L1-2,J1-2,PGOOD1,A1,BOOT1,STATUS1,R1-10,R13-15,#FLG1-2,CHGN1,JSTconnector1,SW1-2,Y1,#PWR1-29,C1-19,U1-8,D1-4,EN1",
     "variants": []
   },
   "sheets": [

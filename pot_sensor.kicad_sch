@@ -6003,10 +6003,6 @@
 		(uuid "79fdd89d-456b-4f07-a40d-c3ee25c362bc")
 	)
 	(no_connect
-		(at 163.83 99.06)
-		(uuid "7f8b0a8c-2cdc-45ed-a303-c4ff07dca20a")
-	)
-	(no_connect
 		(at 209.55 91.44)
 		(uuid "f11710e9-a2d0-4bb2-bfdd-0598d883beae")
 	)
@@ -7008,6 +7004,16 @@
 	)
 	(wire
 		(pts
+			(xy 154.94 99.06) (xy 163.83 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "75ccdce8-466c-4af7-b0a6-0e0d458e5083")
+	)
+	(wire
+		(pts
 			(xy 46.99 106.68) (xy 60.96 106.68)
 		)
 		(stroke
@@ -7510,6 +7516,16 @@
 		)
 		(uuid "b27b4179-fc11-42a8-8cf5-7331a41db62f")
 	)
+	(wire
+		(pts
+			(xy 139.7 99.06) (xy 132.08 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b3441e78-d5c2-4646-a6cf-46650a7758e9")
+	)
 	(polyline
 		(pts
 			(xy 12.7 139.7) (xy 90.17 139.7)
@@ -7960,6 +7976,16 @@
 			(type default)
 		)
 		(uuid "e86422aa-a520-4757-929b-a01db848241e")
+	)
+	(wire
+		(pts
+			(xy 132.08 99.06) (xy 132.08 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8b4b043-35bc-452a-bd22-3cbb9100d3d6")
 	)
 	(wire
 		(pts
@@ -9611,6 +9637,84 @@
 	)
 	(symbol
 		(lib_id "power:GND")
+		(at 132.08 101.6 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "264759e8-612e-4490-97bc-5f07774598cb")
+		(property "Reference" "#PWR029"
+			(at 132.08 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 132.08 106.68 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 132.08 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 132.08 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 132.08 101.6 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "7e1af20f-9aac-4248-9c5a-1815d8f15145")
+		)
+		(instances
+			(project "pot_sensor"
+				(path "/24b866a0-7d45-4845-8b45-7879163e684a"
+					(reference "#PWR029")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
 		(at 176.53 53.34 0)
 		(unit 1)
 		(body_style 1)
@@ -10007,7 +10111,6 @@
 		)
 		(property "Footprint" "Resistor_SMD:R_1206_3216Metric"
 			(at 85.09 69.088 90)
-			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -15482,6 +15585,108 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:LED")
+		(at 143.51 99.06 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ec57eb28-c37f-4f0d-86d0-42a9dfd6e2d6")
+		(property "Reference" "D4"
+			(at 141.9225 92.71 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GREEN"
+			(at 141.9225 95.25 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "LED_SMD:LED_0603_1608Metric"
+			(at 143.51 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 143.51 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Light emitting diode"
+			(at 143.51 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Sim.Pins" "1=K 2=A"
+			(at 143.51 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "APT1608CGCK"
+			(at 143.51 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "2"
+			(uuid "7f8f55e5-f386-4232-bda0-295083f3c22f")
+		)
+		(pin "1"
+			(uuid "5701bba5-1e34-4cc4-b8f8-2ccebd7b2ba4")
+		)
+		(instances
+			(project "pot_sensor"
+				(path "/24b866a0-7d45-4845-8b45-7879163e684a"
+					(reference "D4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:USB_C_Receptacle_USB2.0_14P")
 		(at 31.75 109.22 0)
 		(unit 1)
@@ -15684,6 +15889,97 @@
 			(project "pot_sensor"
 				(path "/24b866a0-7d45-4845-8b45-7879163e684a"
 					(reference "#PWR03")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 151.13 99.06 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f6d0b38d-d01c-41f6-a75d-47ad5329eb78")
+		(property "Reference" "R15"
+			(at 151.13 92.71 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "60"
+			(at 151.13 95.25 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0201_0603Metric"
+			(at 151.13 100.838 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 151.13 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 151.13 99.06 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "PartNumber" "RK73H1HRTTCM60R4"
+			(at 151.13 99.06 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "09a35a0a-1016-4039-a45b-2da9d9f4dfc9")
+		)
+		(pin "2"
+			(uuid "0ad1f4d5-dddd-4950-a7eb-60ea4ab43bb3")
+		)
+		(instances
+			(project "pot_sensor"
+				(path "/24b866a0-7d45-4845-8b45-7879163e684a"
+					(reference "R15")
 					(unit 1)
 				)
 			)
