@@ -743,7 +743,7 @@
         "uuid": "24b866a0-7d45-4845-8b45-7879163e684a"
       }
     ],
-    "used_designators": "L1-2,J1-2,BOOT1,R1-10,R13-15,#FLG1-2,PGOOD1,A1,STATUS1,SW1-2,CHGN1,JSTconnector1,Y1,#PWR1-29,C1-19,U1-8,D1-4,EN1",
+    "used_designators": "R1-10,R13-15,PGOOD1,A1,J1-2,SW1-2,#FLG1-2,BOOT1,STATUS1,#PWR1-29,Y1,JSTconnector1,CHGN1,C1-19,U1-8,D1-4,EN1,L1-2",
     "variants": []
   },
   "sheets": [
