@@ -52,7 +52,7 @@
         "zones": {
           "border_display_style": 2,
           "border_hatch_pitch": 0.5,
-          "corner_radius": 1.0,
+          "corner_radius": 0.5,
           "corner_smoothing": 2,
           "fill_mode": 0,
           "hatch_gap": 1.5,
@@ -743,7 +743,7 @@
         "uuid": "24b866a0-7d45-4845-8b45-7879163e684a"
       }
     ],
-    "used_designators": "R1-10,R13-15,PGOOD1,A1,J1-2,SW1-2,#FLG1-2,BOOT1,STATUS1,#PWR1-29,Y1,JSTconnector1,CHGN1,C1-19,U1-8,D1-4,EN1,L1-2",
+    "used_designators": "PGOOD1,A1,J1-2,R1-10,R13-15,BOOT1,STATUS1,#FLG1-2,SW1-2,CHGN1,JSTconnector1,Y1,#PWR1-29,L1-2,C1-19,U1-8,D1-4,EN1",
     "variants": []
   },
   "sheets": [
