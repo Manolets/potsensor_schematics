@@ -11396,7 +11396,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C52923"
+		(property "LCSC Part #" "C14445"
 			(at 133.35 165.1 90)
 			(hide yes)
 			(show_name no)
@@ -13272,7 +13272,7 @@
 				)
 			)
 		)
-		(property "Value" "10k"
+		(property "Value" "10K"
 			(at 149.86 148.59 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -13282,7 +13282,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0402_1005Metric"
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric"
 			(at 149.86 154.178 90)
 			(hide yes)
 			(show_name no)
@@ -13315,7 +13315,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C25744"
+		(property "LCSC Part #" "C25804"
 			(at 149.86 152.4 90)
 			(hide yes)
 			(show_name no)
@@ -15447,7 +15447,7 @@
 				)
 			)
 		)
-		(property "LCSC Part #" "C52923"
+		(property "LCSC Part #" "C14445"
 			(at 31.75 38.1 0)
 			(hide yes)
 			(show_name no)
